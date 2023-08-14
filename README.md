@@ -11,4 +11,4 @@ I'm a Front-End Developer with 5 years of experience in the MERN stack. I'm pass
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
 ## Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/braismoure](https://www.linkedin.com/in/bcorvalanamil/)https://www.linkedin.com/in/bcorvalanamil/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/bcorvalanamil)

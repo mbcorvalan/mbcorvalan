@@ -1,7 +1,7 @@
 # Hey, my name is Belen Corvalan 👋
 ### FrontEnd engineer
 
-I'm a Front-End Developer with 3 years of experience in the MERN stack. I'm passionate about programming, always eager to learn, and love collaborating with a team. Let's code together!
+I'm a Front-End Developer with 5 years of experience in the MERN stack. I'm passionate about programming, always eager to learn, and love collaborating with a team. Let's code together!
 
 ## Stack:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
